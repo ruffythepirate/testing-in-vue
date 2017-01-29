@@ -27,6 +27,7 @@
     "karma-phantomjs-launcher": "^1.0.2",
     "karma-webpack": "^2.0.1",
     "phantomjs": "^2.1.7",
-    "webpack": "^1.14.0"
+    "webpack": "^1.14.0",
+    "vue-hot-reload-api": "^1.2.0"
   }
 }
