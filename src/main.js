@@ -1,7 +1,9 @@
 import Vue from 'vue'
-import App from './app.vue'
+import app from './app.vue'
+
+import test from './test.js'
 
 new Vue({
-    el: 'body',
-      components: { App }
+  el: 'div',
+  components: { app }
 })
