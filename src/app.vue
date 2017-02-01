@@ -1,6 +1,9 @@
 <template>
-  <h2>There should at least be some rendered content...</h2>
-<!-- <div class="message">{{ message }}</div> -->
+  <div>
+  <h2>hey ho ha hi new rendered content...</h2>
+  {{message}}
+  What is the mather
+  </div>
 </template>
 
 <script>

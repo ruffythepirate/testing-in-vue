@@ -1,7 +1,9 @@
+var path = require('path');
+
 module.exports = {
   entry: './src/main.js',
   output: {
-    path: './dist',
+    path: path.resolve(__dirname, 'dist/'),
     filename: 'build.js'
   },
   module: {
